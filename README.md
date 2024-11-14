@@ -113,6 +113,3 @@ This EDA of the FIFA dataset provided valuable insights into the distribution of
 Connect with me for feedback, questions, or collaboration opportunities:
 - **LinkedIn**: www.linkedin.com/in/deepthy-a-vv1999
 - Gmail: deepthydevadasan@gmail.com
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify the code.
